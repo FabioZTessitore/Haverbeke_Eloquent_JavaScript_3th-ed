@@ -1,5 +1,3 @@
-let s = '#';
-for (let i = 1; i <= 7; i++) {
+for (let s = '#'; s.length <= 7; s += '#') {
   console.log(s);
-  s += '#';
 }
