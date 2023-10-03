@@ -1,1 +1,1 @@
-# Haverbeke_Eloquent_JavaScript_3th-ed
+# Haverbeke - Eloquent JavaScript, 3th ed
